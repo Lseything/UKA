@@ -1,4 +1,3 @@
-## uka_5.32-imageditor
 ## Unpacker Kitchen for Android (UKA)
 
  Unpacking, assembling and converting system(vendor){.img}{.new.dat}{.new.dat.br},
